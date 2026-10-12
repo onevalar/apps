@@ -5,6 +5,22 @@
         <link>https://github.com/onevalar/apps</link>
         <description>TokenPlan macOS updates</description>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Mon, 12 Oct 2026 16:52:15 +0000</pubDate>
+            <sparkle:version>1791823453</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre># TokenPlan 1.0.2
+
+- 完善云端构建、签名公证和三平台自动更新发布流程。
+
+macOS 支持应用内更新；Windows/Linux 自动检查新版本，校验下载后由系统安装程序完成安装。
+
+维护者：@onevalar。
+</pre>]]></description>
+            <enclosure url="https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.2/TokenPlan-1.0.2.dmg" length="19849819" type="application/octet-stream" sparkle:edSignature="PJEyEeNHdDPbSPzG+GblQF2vJ10i9c7N7Pm12ygP/rskqSj5jZgFCFil1P8xDzxdjLhSe2CbIlVQHMxaC+2HCw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Tue, 13 Oct 2026 00:02:10 +0800</pubDate>
             <sparkle:version>1791820742</sparkle:version>

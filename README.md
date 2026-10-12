@@ -8,9 +8,9 @@
 
 | 系统 | 下载 |
 |---|---|
-| macOS 15+（Apple Silicon / Intel） | [TokenPlan 1.0.1](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.1/TokenPlan-1.0.1.dmg) |
-| Windows x64 | [TokenPlan 1.0.1](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.1/TokenPlan-Setup-1.0.1.exe) |
-| Linux x64（Debian / Ubuntu） | [TokenPlan 1.0.1](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.1/tokenplan_1.0.1_amd64.deb) |
+| macOS 15+（Apple Silicon / Intel） | [TokenPlan 1.0.1](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.2/TokenPlan-1.0.2.dmg) |
+| Windows x64 | [TokenPlan 1.0.1](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.2/TokenPlan-Setup-1.0.2.exe) |
+| Linux x64（Debian / Ubuntu） | [TokenPlan 1.0.1](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.2/tokenplan_1.0.2_amd64.deb) |
 
 [发布说明与历史版本](https://github.com/onevalar/apps/releases?q=tokenplan-) · [反馈问题](https://github.com/onevalar/apps/issues) · [隐私说明](tokenplan/privacy.md) · [第三方许可](tokenplan/third-party-notices.txt)
 
