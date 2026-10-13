@@ -4,14 +4,11 @@
 
 ## TokenPlan
 
-查看 AI 服务订阅额度、余额和本机用量记录。
+**TokenPlan 已开源，安装包和后续更新迁移到 [onevalar/token-plan](https://github.com/onevalar/token-plan)。本仓库不再发布 TokenPlan 新安装包。**
 
-| 系统 | 下载 |
-|---|---|
-| macOS 15+（Apple Silicon / Intel） | [TokenPlan 1.0.5](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.5/TokenPlan-1.0.5.dmg) |
-| Windows x64 | [TokenPlan 1.0.5](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.5/TokenPlan-Setup-1.0.5.exe) |
-| Linux x64（Debian / Ubuntu） | [TokenPlan 1.0.5](https://github.com/onevalar/apps/releases/download/tokenplan-v1.0.5/tokenplan_1.0.5_amd64.deb) |
+[下载最新版（三个系统）](https://github.com/onevalar/token-plan/releases/latest) · [反馈问题](https://github.com/onevalar/token-plan/issues) · [隐私说明](https://github.com/onevalar/token-plan/blob/main/docs/privacy.md) · [MIT 许可证](https://github.com/onevalar/token-plan/blob/main/LICENSE)
 
-[发布说明与历史版本](https://github.com/onevalar/apps/releases?q=tokenplan-) · [反馈问题](https://github.com/onevalar/apps/issues) · [隐私说明](tokenplan/privacy.md) · [第三方许可](tokenplan/third-party-notices.txt)
+- macOS：旧版可使用“检查更新”升级到 1.0.6，之后从新仓库获取更新。
+- Windows / Linux：1.0.5 及更早版本需要从新仓库手动下载安装一次 1.0.6，之后正常使用应用内更新。
 
-安装包附有 SHA256 校验文件。macOS 正式版本支持应用内更新；Windows 和 Linux 会自动检查新版本，下载并校验后打开安装程序，由用户完成安装。各软件使用独立标签和更新目录，不共用整个仓库的 Latest 入口。
+此处保留旧 Mac 更新入口和 [历史版本](https://github.com/onevalar/apps/releases?q=tokenplan-)，兼容迁移前的安装用户。
